@@ -1,4 +1,4 @@
-# GDP
+# Untangling Longevity Equation
 
 ### Analysis of the Relationship between GDP and Life Expectancy
 ##### Introduction 📝
