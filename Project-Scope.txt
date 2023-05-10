@@ -1,0 +1,9 @@
+Questions to Answer:
+
+1. What countries have the highest life expectancy? 
+2. What countries have the highest GDP? 
+3. Do life expectancy and GDP have any relationship to one another?  If so, how do they relate?
+4. Is there any relationship between a specific year and life Expectancy?
+5. Year and GDP?
+6. Do countries with higher GDP's tend to have longer life expectancies or shorter life expectancies?  
+7. What predictions can be made?
