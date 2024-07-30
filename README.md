@@ -46,4 +46,3 @@ Together, these technologies form a formidable toolkit, empowering us to embark 
 #### Conclusion 📝🔍
 As our analysis unfolds, we strive to gain a deeper understanding of how GDP impacts life expectancy across our chosen countries. Through rigorous exploration, statistical analysis, and captivating visualization, we illuminate the intricate dance between economic prosperity and the flourishing of human life. By drawing upon the rich tapestry of GDP and life expectancy data, we hope to contribute to the existing body of knowledge, providing valuable insights for policymakers, researchers, and those invested in the pursuit of better health outcomes for all. 🌟🔍✨
 
-
